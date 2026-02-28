@@ -67,7 +67,7 @@ The app compares **Linear Regression** and **Polynomial Regression** models to e
 
 ## 👨‍💻 Author
 
-**Chinmay V Chatradamath**
+**Chinmay V Chatradamath.**
 
 ---
 
